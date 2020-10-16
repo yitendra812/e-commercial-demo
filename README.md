@@ -1,1 +1,1 @@
-# e-commercial-demo
+# E-store
